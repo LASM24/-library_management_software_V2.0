@@ -55,14 +55,47 @@ However, this version omits functionalities such as:
 
 I intend to continue enhancing this project, serving as a foundation for a comprehensive web application. Future iterations will include the integration of web services and a user-friendly interface to elevate user experience and showcase proficiency in full-stack development.
 
-## How to Use
+
+## Installing Dependencies
+
+### PostgreSQL
+
+Ensure that PostgreSQL is installed on your system. If not, you can download and install it from [here](https://www.postgresql.org/download/).
+
+### SQLAlchemy
+
+To use SQLAlchemy in your project, follow these steps:
+
+#### Windows
+
+1. Open a command prompt.
+2. Ensure you have Python installed. You can download and install Python from [python.org](https://www.python.org/downloads/).
+3. Install SQLAlchemy using pip by running the following command:
+    ```
+    pip install sqlalchemy
+    ```
+
+#### Linux
+
+1. Open a terminal.
+2. Ensure you have Python installed. Most Linux distributions come with Python pre-installed. If not, you can install it using your package manager.
+3. Install SQLAlchemy using pip by running the following command:
+    ```
+    pip install sqlalchemy
+    ```
+
+Once installed, you can import and use SQLAlchemy in this Python projects.
+
+## Getting Started
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. update the "config_example.py" file by changing the name to "config.py".
-4. update the code with your information to successfully connect with the `PostgreSQL` manager
-5. Execute the Python script.
-6. Follow the on-screen instructions to interact with the library management system.
+3. 
+4. update the "config_example.py" file by changing the name to "config.py".
+5. update the code with your information to successfully connect with the `PostgreSQL` manager
+6. Execute the Python script.
+7. Follow the on-screen instructions to interact with the library management system.
+
 
 ## Previous Version:
 
